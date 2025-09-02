@@ -32,7 +32,7 @@
           <div class="relative inline-block mb-8">
             <div class="w-36 h-36 bg-gradient-to-br from-blue-500 via-blue-600 to-teal-600 rounded-full p-1 shadow-2xl">
               <!-- Fixed profile image path to use public folder -->
-              <img src="../assets/img/nak.jpg" alt="Profile" class="rounded-full w-full h-full object-cover border-4 border-white" 
+              <img src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=200&fit=crop" alt="Profile" class="rounded-full w-full h-full object-cover border-4 border-white" 
                    @error="handleImageError" />
             </div>
             <div class="absolute -bottom-2 -right-2 w-8 h-8 bg-green-500 rounded-full border-4 border-white"></div>
