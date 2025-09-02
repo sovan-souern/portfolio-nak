@@ -311,7 +311,7 @@ const projects = ref([
     technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Database (MySQL)'],
     liveUrl: 'https://example.com',
     githubUrl: 'https://github.com/sinhpp/VC1-POS_System',
-    image: '../assets/img/vc1.jpg',
+    image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=200&fit=crop',
     imageError: false
   },
   {
